@@ -1,7 +1,8 @@
 module.exports = [
+    
     {
       item_name: "Birthday Gift",
-      amount: 200000,
+      amount: 200000.00,
       date: "August 30th",
       from: "Drake",
       category: "Savings",
@@ -17,7 +18,7 @@ module.exports = [
     },
     {
       item_name: "Salary Deposit",
-      amount: 5000,
+      amount: 5000.00,
       date: "September 1st",
       from: "Tech Corp Inc.",
       category: "Income",
@@ -41,7 +42,7 @@ module.exports = [
     },
     {
       item_name: "Freelance Payment",
-      amount: 950,
+      amount: 950.00,
       date: "September 20th",
       from: "Web Design Client",
       category: "Income",
@@ -65,7 +66,7 @@ module.exports = [
     },
     {
       item_name: "Friend Pay Back",
-      amount: 70,
+      amount: 70.00,
       date: "October 2nd",
       from: "Alex",
       category: "Income",
@@ -73,7 +74,7 @@ module.exports = [
     },
     {
       item_name: "Mutal Aid Donation",
-      amount: 1000,
+      amount: 1000.00,
       date: "October 5th",
       to: "Local Distro",
       category: "Donations",
