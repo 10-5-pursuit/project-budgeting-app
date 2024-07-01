@@ -1,5 +1,5 @@
 module.exports = [
-    
+
     {
       item_name: "Birthday Gift",
       amount: 200000.00,
@@ -10,7 +10,7 @@ module.exports = [
     },
     {
       item_name: "Grocery Shopping",
-      amount: 87.50,
+      amount: 87.55,
       date: "September 5th",
       to: "Whole Foods",
       category: "Expenses",
@@ -42,7 +42,7 @@ module.exports = [
     },
     {
       item_name: "Freelance Payment",
-      amount: 950.00,
+      amount: 950.50,
       date: "September 20th",
       from: "Web Design Client",
       category: "Income",
@@ -66,7 +66,7 @@ module.exports = [
     },
     {
       item_name: "Friend Pay Back",
-      amount: 70.00,
+      amount: 70.73,
       date: "October 2nd",
       from: "Alex",
       category: "Income",
